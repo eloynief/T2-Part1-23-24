@@ -15,6 +15,7 @@ public class Ej5 {
 		//le pedimos 3 numeros al usuario
 		System.out.println("Introduzca 3 números: ");
 		
+		//el numero introducido en los tres valores se guardaran para las siguientes operaciones
 		num1=sc.nextInt();
 		
 		num2=sc.nextInt();

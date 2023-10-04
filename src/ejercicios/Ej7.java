@@ -30,6 +30,9 @@ public class Ej7 {
 		else if(num>=1000&&num<10000) {
 			System.out.println("El numero tiene 5 cifras");
 		}
+		else if(num<0) {
+			System.out.println("El numero introducido es negativo");
+		}
 		else {
 			System.out.println("El numero tiene más de 5 cifras");
 		}
